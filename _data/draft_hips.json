@@ -21,17 +21,17 @@
     }
   },
   {
-    "title": "HIP-1414: CryptoTransfer Contract Calls",
+    "title": "HIP-1414: Introduce EVM transfer semantics to CryptoTransfer",
     "number": 1414,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1414",
-    "headRefOid": "03503e9af0f9820165f40cf858ce414edc25a62e",
+    "headRefOid": "b454ed789ec2e6090736a9ab639ad2c6cf9fa2a9",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1414.md",
             "changeType": "ADDED",
-            "additions": 250,
+            "additions": 251,
             "deletions": 0
           }
         }
