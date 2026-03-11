@@ -1,5 +1,58 @@
 [
   {
+    "title": "Block and State Merkle Tree Hashing Scheme",
+    "number": 1424,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1424",
+    "headRefOid": "bdecc713f9fcc812bb0a493cd535b8eb0f9278ba",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-XXXX-block-stream-hashing.md",
+            "changeType": "ADDED",
+            "additions": 684,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-XXXX/Hashing - Block Root Tree.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-XXXX/Hashing - Block Root.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-XXXX/Hashing - Simplified Block Root.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-XXXX/Merkle proof sketches.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Nana-EC"
+    }
+  },
+  {
     "title": "Add HIP-1415 for configurable HBAR decimals",
     "number": 1415,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1415",
@@ -455,27 +508,6 @@
     },
     "author": {
       "login": "walter-hernandez"
-    }
-  },
-  {
-    "title": "HIP-1193 - Records to block streams cutover",
-    "number": 1193,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1193",
-    "headRefOid": "ae4b309b57589db350541412ae8967525064fc8e",
-    "files": {
-      "edges": [
-        {
-          "node": {
-            "path": "HIP/hip-1193.md",
-            "changeType": "ADDED",
-            "additions": 267,
-            "deletions": 0
-          }
-        }
-      ]
-    },
-    "author": {
-      "login": "Mark-Swirlds"
     }
   },
   {
