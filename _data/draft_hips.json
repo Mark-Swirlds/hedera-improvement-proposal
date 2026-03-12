@@ -1,30 +1,22 @@
 [
   {
-    "title": "Block and State Merkle Tree Hashing Scheme",
-    "number": 1424,
-    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1424",
-    "headRefOid": "bdecc713f9fcc812bb0a493cd535b8eb0f9278ba",
+    "title": "Historical Record File Bootstrap for Block Stream Cutover",
+    "number": 1427,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1427",
+    "headRefOid": "6a21ad757596863e14d369a1a648b23724db9ce9",
     "files": {
       "edges": [
         {
           "node": {
-            "path": "HIP/hip-XXXX-block-stream-hashing.md",
+            "path": "HIP/hip-1427.md",
             "changeType": "ADDED",
-            "additions": 684,
+            "additions": 590,
             "deletions": 0
           }
         },
         {
           "node": {
-            "path": "assets/hip-XXXX/Hashing - Block Root Tree.png",
-            "changeType": "ADDED",
-            "additions": 0,
-            "deletions": 0
-          }
-        },
-        {
-          "node": {
-            "path": "assets/hip-XXXX/Hashing - Block Root.png",
+            "path": "assets/hip-1427/jumpstart-format.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
@@ -32,7 +24,15 @@
         },
         {
           "node": {
-            "path": "assets/hip-XXXX/Hashing - Simplified Block Root.png",
+            "path": "assets/hip-1427/overview.svg",
+            "changeType": "ADDED",
+            "additions": 90,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1427/pipeline.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
@@ -40,7 +40,68 @@
         },
         {
           "node": {
-            "path": "assets/hip-XXXX/Merkle proof sketches.png",
+            "path": "assets/hip-1427/wrap-pipeline.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1427/wrapped-block.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        }
+      ]
+    },
+    "author": {
+      "login": "Nana-EC"
+    }
+  },
+  {
+    "title": "Block and State Merkle Tree Hashing Scheme",
+    "number": 1424,
+    "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1424",
+    "headRefOid": "d79bd71090479c09b891ee1e1584aedfc1328697",
+    "files": {
+      "edges": [
+        {
+          "node": {
+            "path": "HIP/hip-1424.md",
+            "changeType": "ADDED",
+            "additions": 594,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1424/Hashing - Block Root Tree.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1424/Hashing - Block Root.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1424/Hashing - Simplified Block Root.png",
+            "changeType": "ADDED",
+            "additions": 0,
+            "deletions": 0
+          }
+        },
+        {
+          "node": {
+            "path": "assets/hip-1424/Merkle proof sketches.png",
             "changeType": "ADDED",
             "additions": 0,
             "deletions": 0
