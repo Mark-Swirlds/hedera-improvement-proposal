@@ -575,14 +575,14 @@
     "title": "Sponsored Fees",
     "number": 1068,
     "url": "https://github.com/hiero-ledger/hiero-improvement-proposals/pull/1068",
-    "headRefOid": "f264d51e6e416a2a10b1891a726a87ca45323d86",
+    "headRefOid": "dff25c830cc2c38024c5cf070e8a3df178ccd3a1",
     "files": {
       "edges": [
         {
           "node": {
             "path": "HIP/hip-1068.md",
             "changeType": "ADDED",
-            "additions": 542,
+            "additions": 554,
             "deletions": 0
           }
         },
